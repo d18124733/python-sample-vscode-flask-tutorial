@@ -10,7 +10,7 @@ resources:
 
 variables:
   # Container registry service connection established during pipeline creation
-  azureSubscription: 'Azure for Students'
+  azureSubscription: 4e79b837-6117-4a59-abe0-505edb64e15d
   appName: sample-docker-web-app
   dockerRegistryServiceConnection: '4132c2c6-f91c-467a-b911-8512414ccf11'
   imageRepository: 'dpythonsamplevscodeflasktutorial'
